@@ -6,6 +6,8 @@
 
 - 📫 How to reach me *ingisraeltrujillo@gmail.com*
 
+- 🔭 I’m currently working on Tecnoglass S.A.S
+
 - ⚡ Fun fact *I love One Piece*
 
 <h3 align="left">Connect with me:</h3>
