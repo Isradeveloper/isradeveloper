@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 Software Engineer | Backend Specialist | Full-Stack Developer
-Software engineer with over 3 years of experience designing and building scalable, high-performance web applications using modern technologies. I specialize in Python and JavaScript/TypeScript, with a strong focus on backend architecture and full-stack development.
+Software engineer with over 4 years of experience designing and building scalable, high-performance web applications using modern technologies. I specialize in Python and JavaScript/TypeScript, with a strong focus on backend architecture and full-stack development.
 
 My technical expertise spans a wide range of tools and frameworks, including Django, FastAPI, NestJS, and Express.js for backend systems, as well as React, Vue.js, and Next.js on the frontend. I am deeply familiar with building robust APIs using GraphQL (Apollo, TypeGraphQL) and REST, and I have integrated complex authentication and real-time features using JWT and Socket.io.
 
@@ -11,34 +11,22 @@ Beyond application development, I have hands-on experience deploying and maintai
 I also value user experience and interface design, leveraging tools like Tailwind CSS, Bootstrap, MUI, Vuetify, and Figma to craft responsive and intuitive UIs.
 
 🛠️ Tech Focus Highlights
-Languages: Python, TypeScript, JavaScript, PHP, HTML5, CSS3
-
-Backend: Django, Django REST Framework, FastAPI, Flask, NestJS, Express.js, Fastify
-
-Frontend: React, Vue.js, Next.js, Nuxt.js
-
-APIs: REST, GraphQL, Apollo, TypeGraphQL, JWT, Socket.io
-
-Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
-
-ORMs: Prisma, SQLAlchemy, TypeORM, Sequelize
-
-Styling & UI: Tailwind CSS, Bootstrap, MUI, DaisyUI, Vuetify
-
-DevOps & Cloud: Docker, Kubernetes, AWS, GCP, Azure, Firebase, DigitalOcean, Cloudflare, Netlify, Nginx
-
-Tools & CI/CD: Git, GitHub, GitLab, GitHub Actions, GitLab CI, Vite, Nodemon, Chart.js, Figma, Adobe Suite
+- Languages: Python, TypeScript, JavaScript, PHP, HTML5, CSS3
+- Backend: Django, Django REST Framework, FastAPI, Flask, NestJS, Express.js, Fastify
+- Frontend: React, Vue.js, Next.js, Nuxt.js
+- APIs: REST, GraphQL, Apollo, TypeGraphQL, JWT, Socket.io
+- Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
+- ORMs: Prisma, SQLAlchemy, TypeORM, Sequelize
+- Styling & UI: Tailwind CSS, Bootstrap, MUI, DaisyUI, Vuetify
+- DevOps & Cloud: Docker, Kubernetes, AWS, GCP, Azure, Firebase, DigitalOcean, Cloudflare, Netlify, Nginx
+- Tools & CI/CD: Git, GitHub, GitLab, GitHub Actions, GitLab CI, Vite, Nodemon, Chart.js, Figma, Adobe Suite
 
 🚀 Key Experience
-Automating business processes and optimizing backend workflows
-
-Designing scalable architectures and microservices
-
-Building full-featured APIs and managing high-volume data
-
-Implementing clean code, SOLID principles, and team collaboration practices
-
-Delivering full-stack solutions with a strong emphasis on performance, maintainability, and user experience
+- Automating business processes and optimizing backend workflows
+- Designing scalable architectures and microservices
+- Building full-featured APIs and managing high-volume data
+- Implementing clean code, SOLID principles, and team collaboration practices
+- Delivering full-stack solutions with a strong emphasis on performance, maintainability, and user experience
 
 
 ## 🌐 Socials:
