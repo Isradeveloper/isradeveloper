@@ -1,5 +1,44 @@
 # 💫 About Me:
-💻 Software Engineer | Backend Specialist | Full-Stack Developer<br>Software engineer with over 4 years of experience building scalable, efficient, and optimized solutions. Specialized in Python and JavaScript, with a strong focus on designing and implementing robust architectures tailored to business needs.<br><br>While my core expertise lies in backend development, I also have solid experience in frontend technologies like Vue.js, React, and Next.js, enabling me to deliver full-stack solutions with a comprehensive approach.<br><br>🛠️ Core Skills<br>Backend: Python (Django, Flask, FastAPI), Node.js (Express, NestJS)<br><br>Frontend: Vue.js, React, Next.js<br><br>Databases: PostgreSQL, MySQL, MongoDB<br><br>ORMs: TypeORM, Prisma, SQLAlchemy<br><br>DevOps: Docker, Kubernetes, Google Cloud Platform (GCP), Amazon Web Services (AWS)<br><br>Version Control: Git<br><br>UI Frameworks: Bootstrap, Tailwind CSS<br><br>🚀 Highlighted Experience<br>Workflow automation and process optimization<br><br>API integration and scalable microservices development<br><br>Large-scale data analysis and management<br><br>Implementation of development best practices with a focus on code quality and team collaboration<br><br>My meticulous approach and ability to apply knowledge from multiple perspectives allow me to deliver high-quality solutions. I'm committed to technological innovation and continuous learning.<br><br>
+💻 Software Engineer | Backend Specialist | Full-Stack Developer
+Software engineer with over 3 years of experience designing and building scalable, high-performance web applications using modern technologies. I specialize in Python and JavaScript/TypeScript, with a strong focus on backend architecture and full-stack development.
+
+My technical expertise spans a wide range of tools and frameworks, including Django, FastAPI, NestJS, and Express.js for backend systems, as well as React, Vue.js, and Next.js on the frontend. I am deeply familiar with building robust APIs using GraphQL (Apollo, TypeGraphQL) and REST, and I have integrated complex authentication and real-time features using JWT and Socket.io.
+
+I’ve worked extensively with SQL and NoSQL databases like PostgreSQL, MySQL, MongoDB, and Redis, utilizing ORMs such as Prisma, SQLAlchemy, TypeORM, and Sequelize to maintain data integrity and performance.
+
+Beyond application development, I have hands-on experience deploying and maintaining systems using Docker, Kubernetes, and cloud platforms like AWS, GCP, Azure, and DigitalOcean. My DevOps workflow includes GitHub Actions, GitLab CI, and Cloudflare integrations for CI/CD pipelines and DNS/CDN management.
+
+I also value user experience and interface design, leveraging tools like Tailwind CSS, Bootstrap, MUI, Vuetify, and Figma to craft responsive and intuitive UIs.
+
+🛠️ Tech Focus Highlights
+Languages: Python, TypeScript, JavaScript, PHP, HTML5, CSS3
+
+Backend: Django, Django REST Framework, FastAPI, Flask, NestJS, Express.js, Fastify
+
+Frontend: React, Vue.js, Next.js, Nuxt.js
+
+APIs: REST, GraphQL, Apollo, TypeGraphQL, JWT, Socket.io
+
+Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
+
+ORMs: Prisma, SQLAlchemy, TypeORM, Sequelize
+
+Styling & UI: Tailwind CSS, Bootstrap, MUI, DaisyUI, Vuetify
+
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, Azure, Firebase, DigitalOcean, Cloudflare, Netlify, Nginx
+
+Tools & CI/CD: Git, GitHub, GitLab, GitHub Actions, GitLab CI, Vite, Nodemon, Chart.js, Figma, Adobe Suite
+
+🚀 Key Experience
+Automating business processes and optimizing backend workflows
+
+Designing scalable architectures and microservices
+
+Building full-featured APIs and managing high-volume data
+
+Implementing clean code, SOLID principles, and team collaboration practices
+
+Delivering full-stack solutions with a strong emphasis on performance, maintainability, and user experience
 
 
 ## 🌐 Socials:
